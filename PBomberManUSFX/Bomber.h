@@ -16,5 +16,6 @@ public:
 	void Correr();
 	void colocarBombas();
 	void Mover();
+	void activarBomba();
 };
 
