@@ -16,6 +16,10 @@ void Bomber::Mover() {
 
 }
 
-void activarBomba() {
+void Bomber::activarBomba() {
+
+}
+
+void Bomber::Crear() {
 
 }

@@ -17,5 +17,6 @@ public:
 	void colocarBombas();
 	void Mover();
 	void activarBomba();
+	void Crear();
 };
 
