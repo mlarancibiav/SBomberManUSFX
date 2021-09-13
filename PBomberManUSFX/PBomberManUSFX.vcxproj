@@ -147,6 +147,7 @@
     <ClCompile Include="Explosion.cpp" />
     <ClCompile Include="Muro.cpp" />
     <ClCompile Include="MuroDestructible.cpp" />
+    <ClCompile Include="Nivel.cpp" />
     <ClCompile Include="Poderes.cpp" />
     <ClCompile Include="principal.cpp" />
     <ClCompile Include="Puntaje.cpp" />
@@ -162,6 +163,7 @@
     <ClInclude Include="Explosion.h" />
     <ClInclude Include="Muro.h" />
     <ClInclude Include="MuroDestructible.h" />
+    <ClInclude Include="Nivel.h" />
     <ClInclude Include="Poderes.h" />
     <ClInclude Include="Puntaje.h" />
     <ClInclude Include="Tiempo.h" />
