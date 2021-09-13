@@ -11,3 +11,7 @@ void Bomber::Correr() {
 void Bomber::colocarBombas() {
 
 }
+
+void Bomber::Mover() {
+
+}
