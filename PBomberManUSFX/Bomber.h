@@ -14,5 +14,6 @@ public:
 
 	void Morir();
 	void Correr();
+	void colocarBombas();
 };
 
