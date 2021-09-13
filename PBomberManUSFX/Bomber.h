@@ -1,5 +1,5 @@
 #pragma once
-class Bomber
+class Bom
 {
 private:
 	int anchoAvatar;
@@ -12,8 +12,6 @@ public:
 	int getAltoAvatar() { return altoAvatar; }
 	void setAltoAvatar(int _altoAvatar) { altoAvatar = _altoAvatar; }
 
-	void Morir();
-	void Correr();
 	void colocarBombas();
 };
 
