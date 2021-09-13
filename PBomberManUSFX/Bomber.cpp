@@ -1,6 +1,13 @@
 #include "Bomber.h"
 
+void Bomber::Morir() {
 
-void Bom::colocarBombas() {
+}
+
+void Bomber::Correr() {
+
+}
+
+void Bomber::colocarBombas() {
 
 }
