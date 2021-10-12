@@ -4,6 +4,7 @@ class Vida
 private:
 	int inicioJuego;
 	int finJuego;
+	int nuevo;
 
 public:
 
