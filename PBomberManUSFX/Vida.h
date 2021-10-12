@@ -6,6 +6,7 @@ private:
 	int finJuego;
 	int nuevo;
 	int mmm;
+
 }
 
 public:
